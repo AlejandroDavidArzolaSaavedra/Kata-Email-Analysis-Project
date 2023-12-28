@@ -1,4 +1,4 @@
-<h1  align="center" >Kata4 - Email Analysis Project (IPO PATTERN)📧📊</h1>
+<h1  align="center" >Kata - Email Analysis Project (IPO PATTERN)📧📊</h1>
 
 This Java project, named Kata4, focuses on the analysis of email addresses and the creation of a histogram that displays the frequency of email domains present in a text file.
 
