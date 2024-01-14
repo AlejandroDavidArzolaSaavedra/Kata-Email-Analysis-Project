@@ -3,7 +3,7 @@
 This Java project, named Kata4, focuses on the analysis of email addresses and the creation of a histogram that displays the frequency of email domains present in a text file.
 
 <p  align="center" >
-  <img width="400px"src="https://github.com/AlejandroDavidArzolaSaavedra/kata4/assets/90756437/2bd27f42-b353-4039-90ee-0b0b13aa8e20">
+  <img width="600px"src="https://github.com/AlejandroDavidArzolaSaavedra/Kata-Email-Analysis-Project/assets/90756437/ce0fe7ed-eb78-45f1-9159-575e6a53aa5b">
 </p>
 
 # 👥 Development Team (Ctrl + Click to view profiles)
@@ -19,26 +19,6 @@ The main objective of Kata4 is to process a text file containing email addresses
 - **Process:** After reading the email addresses, the program processes the information to build a histogram that counts the frequency of each email domain.
 
 - **Output:** Finally, the program displays the generated histogram in a graphical interface.
-
-## Project Structure 🚀
-
-### Main Classes
-
-- **Kata4.java:** Contains the main class of the project. It is responsible for file reading, data processing, and histogram presentation.
-
-### Model Classes
-
-- **Histogram.java:** Represents a generic histogram and is used to store the frequency of email domains.
-
-- **Mail.java:** Defines the structure of an email object and provides methods to obtain the email domain.
-
-### View Classes
-
-- **HistogramDisplay.java:** Creates and displays a graphical histogram using the JFreeChart library.
-
-- **MailHistogramBuilder.java:** Builds a histogram from a list of email objects.
-
-- **MailListReader.java:** Reads email addresses from a file and returns a list of email objects.
 
 ## How to Use 🚀
 
@@ -59,5 +39,5 @@ Ensure that the `email.txt` file is located in the path specified in the `input`
 Enjoy exploring and analyzing email statistics with Kata4! 📧📊
 
 ## Contributions 🤝
-
+<img align="left" width="200" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/PAMN_practicas/assets/90756437/1066c948-efb6-45b6-ac18-d81015abf332">
 Feel free to contribute to this project, whether by reporting issues, suggesting improvements, or proposing new features. Every contribution is welcome!
