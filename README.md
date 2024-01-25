@@ -41,8 +41,3 @@ Enjoy exploring and analyzing email statistics with Kata4! 📧📊
 ## Contributions 🤝
 <img align="left" width="200" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/PAMN_practicas/assets/90756437/1066c948-efb6-45b6-ac18-d81015abf332">
 Feel free to contribute to this project, whether by reporting issues, suggesting improvements, or proposing new features. Every contribution is welcome!
-
-<br><br><br><br><br><br>
-<p align="center" >
-  <img width="600px"src="https://github.com/AlejandroDavidArzolaSaavedra/Kata-Email-Analysis-Project/assets/90756437/ff8ed2f9-645f-4e9a-8de0-5c75ac2ddae7">
-</p>
